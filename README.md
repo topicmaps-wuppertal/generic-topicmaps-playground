@@ -4,7 +4,9 @@
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/topicmaps-wuppertal/generic-topicmaps-playground)
 
-<!-- [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/topicmaps-wuppertal/generic-topicmaps-playground) -->
+[![Open in my CodeSandbox ](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/generictopicmap-playground-d5gso?file=/src/App.js)
+
+<!-- generic Link not working [![Open in CodeSandbox ](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/topicmaps-wuppertal/generic-topicmaps-playground) --> -->
 
 Die Config-Files können lokal oder in den verlinkten Online-Entwicklungsumgebungen editiert werden ,um die Ergebnisse direkt zu überprüfen. Ist alles in Ordnunglkann man über den Link rechts oben, alle Config-Files herunterladen, um sie dann auf https://github.com/cismet/wupp-generic-topic-map-config zu veröffentlichen.
 
